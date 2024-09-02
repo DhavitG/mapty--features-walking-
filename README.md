@@ -1,1 +1,2 @@
-# mapty--features-walking-
+# mapty : A Workout Tracker Application
+
